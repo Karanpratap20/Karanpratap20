@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/karan pratap singh kharka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan pratap singh kharka" height="30" width="40" /></a>
 <a href="https://instagram.com/karanpratap_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karanpratap_20" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/karanpratap200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karanpratap200" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/karanpratap2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karanpratap2003" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/karan pratap singh kharka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="karan pratap singh kharka" height="30" width="40" /></a>
 </p>
