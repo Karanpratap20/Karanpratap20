@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanpratap20&label=Profile%20views&color=0e75b6&style=flat" alt="karanpratap20" /> </p>
 
-- 🔭 I’m currently Studying Computer science **From Gehu Bhimtal**
+- 🔭 I’m currently Studying **Computer science** From **Gehu Bhimtal**
 
 - 🌱 I’m currently learning **JavaScript**
 
