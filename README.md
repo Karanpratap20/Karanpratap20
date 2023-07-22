@@ -1,3 +1,7 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
 <h1 align="center">Hi 👋, I'm Karanpratap Singh Kharka</h1>
 <h3 align="center">An upcoming Software Engineer from India</h3>
 
@@ -28,3 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanpratap20&show_icons=true&locale=en&layout=compact" alt="karanpratap20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanpratap20&show_icons=true&locale=en" alt="karanpratap20" /></p>
+</html>
